@@ -6,13 +6,13 @@ This packages includes both the original dark and my own light versions of these
 
 ## Screenshots
 
-![Dark Red](https://github.com/crshd/hyper-firewatch-ld/blob/master/screenshots/dr.png)
+![Dark Red](http://imgur.com/YjfK9gH.png)
 
-![Dark Green](https://github.com/crshd/hyper-firewatch-ld/blob/master/screenshots/dg.png)
+![Dark Green](http://imgur.com/X5JcBft.png)
 
-![Light Red](https://github.com/crshd/hyper-firewatch-ld/blob/master/screenshots/lr.png)
+![Light Red](http://imgur.com/xPu4Mrx.png)
 
-![Light Green](https://github.com/crshd/hyper-firewatch-ld/blob/master/screenshots/lg.png)
+![Light Green](http://imgur.com/uXH2CNk.png)
 
 ## Install
 
