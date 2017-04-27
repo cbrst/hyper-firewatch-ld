@@ -1,6 +1,6 @@
 {
   "name": "hyper-firewatch-ld",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "keywords": ["hyper", "theme", "firewatch", "dark"],
   "description": "A theme for Hyper based on the firewatch palette. Light and dark variants.",
   "repository": "crshd/hyper-firewatch-ld",
