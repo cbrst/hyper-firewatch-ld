@@ -4,6 +4,16 @@ A theme for [Hyper](https://hyper.is/) inspired by Campo Santo's [Firewatch game
 
 This packages includes both the original dark and my own light versions of these themes.
 
+## Screenshots
+
+![Dark Red](https://github.com/crshd/hyper-firewatch-ld/blob/master/screenshots/dr.png)
+
+![Dark Green](https://github.com/crshd/hyper-firewatch-ld/blob/master/screenshots/dg.png)
+
+![Light Red](https://github.com/crshd/hyper-firewatch-ld/blob/master/screenshots/lr.png)
+
+![Light Green](https://github.com/crshd/hyper-firewatch-ld/blob/master/screenshots/lg.png)
+
 ## Install
 
 Add `hyper-firewatch-ld` to the plugins list in your `~/.hyper.js` config file.
